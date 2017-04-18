@@ -1,0 +1,11 @@
+
+- app_configuration:
+
+    contextbroker_endpoint: http://ed922333.ngrok.io
+    fiware_service: testforbio
+    fiware_service_path: /
+
+- mapping:
+
+    t: temperature
+    h: humidity
