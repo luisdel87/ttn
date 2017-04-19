@@ -1,7 +1,7 @@
 
 - app_configuration:
 
-    contextbroker_endpoint: http://XXXXXXXXX
+    contextbroker_endpoint: xxxxxxxxx
     fiware_service: testforbio
     fiware_service_path: /
 
